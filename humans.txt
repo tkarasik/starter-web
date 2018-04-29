@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tomer Karasik	tomer@cobwebs.com
 
 # THANKS
 
