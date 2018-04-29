@@ -8,6 +8,10 @@ This example shows different parts of the Git repository.
 
 ## Deployment
 
+Another change in the file.
+Yet another change.
+
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+Adding new line to this paragraph.
