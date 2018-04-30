@@ -6,7 +6,7 @@ Adding some more info, then more changes from my feature.
 ## Introduction
 
 This example shows different parts of the Git repository.
-Some text.
+Some text. Updating a line.
 
 ## Deployment
 
