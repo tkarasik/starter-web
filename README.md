@@ -18,4 +18,4 @@ Yet another change.
 Sample website with plenty of files for demos.
 Adding new line to this paragraph.
 
-2018 Tomer Karasik
+2018 Tomer Karasik - All right reserved
